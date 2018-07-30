@@ -4,6 +4,7 @@ Builds as a service.
 
 ## Installation
 
+    $ sudo apt-get install libwxgtk-media2.8-dev libwxgtk2.8-dev
     $ gem install anvil-cli
 
 ## Usage
